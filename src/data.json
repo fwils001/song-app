@@ -1,0 +1,179 @@
+{
+  "songs": [
+    {
+      "title": "Poor Little Fool",
+      "date": "August 4, 1958",
+      "artist": "Ricky Nelson",
+      "weeks": 2,
+      "label": "Imperial"
+    },
+    {
+      "title": "Volare (Nel blu dipinto di blue)",
+      "date": "August 18, 1958",
+      "artist": "Domenico Modugno",
+      "weeks": 5,
+      "label": "Decca"
+    },
+    {
+      "title": "Little Star",
+      "date": "August 25, 1958",
+      "artist": "The Elegants",
+      "weeks": 1,
+      "label": "Apt"
+    },
+    {
+      "title": "It's All in the Game",
+      "date": "September 29, 1958",
+      "artist": "Tommy Edwards",
+      "weeks": 6,
+      "label": "MGM"
+    },
+    {
+      "title": "It's Only Make Believe",
+      "date": "November 10, 1958",
+      "artist": "Conway Twitty",
+      "weeks": 2,
+      "label": "MGM"
+    },
+    {
+      "title": "Tom Dooley",
+      "date": "November 17, 1958",
+      "artist": "The Kingston Trio",
+      "weeks": 1,
+      "label": "Capitol"
+    },
+    {
+      "title": "To Know Him Is to Love Him",
+      "date": "December 1, 1958",
+      "artist": "The Teddy Bears",
+      "weeks": 3,
+      "label": "Dore"
+    },
+    {
+      "title": "The Chipmunk Song (Christmas Don't Be Late",
+      "date": "December 22, 1958",
+      "artist": "The Chipmunks with David Seville",
+      "weeks": 4,
+      "label": "Liberty"
+    },
+    {
+      "title": "Smoke Gets in Your Eyes",
+      "date": "January 19, 1959",
+      "artist": "The Platters",
+      "weeks": 3,
+      "label": "Mercury"
+    },
+    {
+      "title": "Stagger Lee",
+      "date": "February 9, 1959",
+      "artist": "Lloyd Price",
+      "weeks": 4,
+      "label": "ABC-Paramount"
+    },
+    {
+      "title": "Venus",
+      "date": "March 9, 1959",
+      "artist": "Frankie Avalon",
+      "weeks": 5,
+      "label": "Chancellor"
+    },
+    {
+      "title": "Come Softly to Me",
+      "date": "April 13, 1959",
+      "artist": "The Fleetwoods",
+      "weeks": 4,
+      "label": "Liberty"
+    },
+    {
+      "title": "The Happy Organ",
+      "date": "May 11, 1959",
+      "artist": "Dave 'Baby' Cortez",
+      "weeks": 1,
+      "label": "Clock"
+    },
+    {
+      "title": "Kansas City",
+      "date": "May 18, 1959",
+      "artist": "Frankie Avalon",
+      "weeks": 5,
+      "label": "Chancellor"
+    },
+    {
+      "title": "The Battle of New Orleans",
+      "date": "June 1, 1959",
+      "artist": "Johnny Horton",
+      "weeks": 2,
+      "label": "Fury"
+    },
+    {
+      "title": "Lonley Boy",
+      "date": "July 13, 1959",
+      "artist": "Paul Anka",
+      "weeks": 4,
+      "label": "ABC-Paramount"
+    },
+    {
+      "title": "A Big Hunk o' Love",
+      "date": "August 10, 1959",
+      "artist": "Elvis Presley",
+      "weeks": 2,
+      "label": "RCA Victor"
+    },
+    {
+      "title": "The Three Bells",
+      "date": "August 24, 1959",
+      "artist": "The Browns",
+      "weeks": 4,
+      "label": "RCA Victor"
+    },
+    {
+      "title": "Sleep Walk",
+      "date": "September 1, 1959",
+      "artist": "Santa & Johnny",
+      "weeks": 2,
+      "label": "Canadian-American"
+    },
+    {
+      "title": "Mack the Knife",
+      "date": "October 5, 1959",
+      "artist": "Bobby Darin",
+      "weeks": 9,
+      "label": "Atco"
+    },
+    {
+      "title": "Mr. Blue",
+      "date": "November 16, 1959",
+      "artist": "The Fleetwoods",
+      "weeks": 1,
+      "label": "Dolton"
+    },
+    {
+      "title": "Heartaches by the Number",
+      "date": "December 14, 1959",
+      "artist": "Guy Mitchell",
+      "weeks": 2,
+      "label": "Columbia"
+    },
+    {
+      "title": "Why",
+      "date": "December 28, 1959",
+      "artist": "Frankie Avalon",
+      "weeks": 1,
+      "label": "Chancellor"
+    },
+    {
+      "title": "El Paso",
+      "date": "January 4, 1960",
+      "artist": "Marty Robbins",
+      "weeks": 2,
+      "label": "Columbia"
+    },
+    {
+      "title": "Running Bear",
+      "date": "January 18, 1960",
+      "artist": "Johnny Preston",
+      "weeks": 3,
+      "label": "Mercury"
+    }
+  ]
+}
