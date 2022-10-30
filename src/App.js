@@ -1,10 +1,9 @@
 import './App.css'
 import songs from './data.json'
 
-function App() {
-  console.log(songs)
+const App = () => {
   return (
-    <div>
+    <div className="Songs">
       <h1>My Song App</h1>
     </div>
   )
