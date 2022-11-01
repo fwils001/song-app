@@ -4,8 +4,22 @@ body {
 
 .footer {
   text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 .song {
+  display: flex;
   flex-direction: column;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.songs {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  border-style: dashed;
+}
+
+.header {
+  display: flex;
+  font-family: Arial, Helvetica, sans-serif;
 }
