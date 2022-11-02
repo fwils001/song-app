@@ -8,14 +8,14 @@ import Nav from './components/Nav'
 const App = () => {
   return (
     <div className="songs">
+      <Header />
+      <Nav />
       <h1>My Song App</h1>
       <h3>-----------</h3>
       {data.songs.map((song) => (
         <Song song={song} />
       ))}
       <Footer />
-      <Header />
-      <Nav />
     </div>
   )
 }
