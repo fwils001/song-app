@@ -53,21 +53,24 @@
       "date": "December 1, 1958",
       "artist": "The Teddy Bears",
       "weeks": 3,
-      "label": "Dore"
+      "label": "Dore",
+      "img": "https://i.scdn.co/image/ab67616d0000b27376e4ee14dfa7cfc1eca195d6"
     },
     {
       "title": "The Chipmunk Song (Christmas Don't Be Late)",
       "date": "December 22, 1958",
       "artist": "The Chipmunks with David Seville",
       "weeks": 4,
-      "label": "Liberty"
+      "label": "Liberty",
+      "img": "https://i.ytimg.com/vi/joAXosrtocg/hqdefault.jpg"
     },
     {
       "title": "Smoke Gets in Your Eyes",
       "date": "January 19, 1959",
       "artist": "The Platters",
       "weeks": 3,
-      "label": "Mercury"
+      "label": "Mercury",
+      "img": "https://m.media-amazon.com/images/I/519hvQ0nGBL._SY580_.jpg"
     },
     {
       "title": "Stagger Lee",
