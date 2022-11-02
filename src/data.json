@@ -29,21 +29,24 @@
       "date": "September 29, 1958",
       "artist": "Tommy Edwards",
       "weeks": 6,
-      "label": "MGM"
+      "label": "MGM",
+      "img": "https://i.ytimg.com/vi/Wdk9NKHoTfc/hqdefault.jpg"
     },
     {
       "title": "It's Only Make Believe",
       "date": "November 10, 1958",
       "artist": "Conway Twitty",
       "weeks": 2,
-      "label": "MGM"
+      "label": "MGM",
+      "img": "https://i.ytimg.com/vi/E0UuKCjx87E/hqdefault.jpg"
     },
     {
       "title": "Tom Dooley",
       "date": "November 17, 1958",
       "artist": "The Kingston Trio",
       "weeks": 1,
-      "label": "Capitol"
+      "label": "Capitol",
+      "img": "https://www.covermesongs.com/wp-content/uploads/2021/04/Tom-Dooley-500x500.jpg"
     },
     {
       "title": "To Know Him Is to Love Him",
