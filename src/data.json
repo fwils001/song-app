@@ -109,42 +109,48 @@
       "date": "May 18, 1959",
       "artist": "Frankie Avalon",
       "weeks": 5,
-      "label": "Chancellor"
+      "label": "Chancellor",
+      "img": "https://m.media-amazon.com/images/I/61TtAxMoJ+L.jpg"
     },
     {
       "title": "The Battle of New Orleans",
       "date": "June 1, 1959",
       "artist": "Johnny Horton",
       "weeks": 2,
-      "label": "Fury"
+      "label": "Fury",
+      "img": "https://cdn.albumoftheyear.org/album/49295-the-battle-of-new-orleans.jpg"
     },
     {
       "title": "Lonely Boy",
       "date": "July 13, 1959",
       "artist": "Paul Anka",
       "weeks": 4,
-      "label": "ABC-Paramount"
+      "label": "ABC-Paramount",
+      "img": "https://i.scdn.co/image/a003b7b979a3f51f1f6eec27dc08bd272a859230"
     },
     {
       "title": "A Big Hunk o' Love",
       "date": "August 10, 1959",
       "artist": "Elvis Presley",
       "weeks": 2,
-      "label": "RCA Victor"
+      "label": "RCA Victor",
+      "img": "https://i.discogs.com/pwlYPlwpYEQt_8cd__13Rw97xy84ukvhDoS9muf20MY/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjkz/NzgyLTE1NzEzMDQz/NjktMzY1NS5qcGVn.jpeg"
     },
     {
       "title": "The Three Bells",
       "date": "August 24, 1959",
       "artist": "The Browns",
       "weeks": 4,
-      "label": "RCA Victor"
+      "label": "RCA Victor",
+      "img": "https://static.stereogum.com/uploads/2018/02/The-Browns-The-Three-Bells-1518027631.jpg"
     },
     {
       "title": "Sleep Walk",
       "date": "September 1, 1959",
       "artist": "Santa & Johnny",
       "weeks": 2,
-      "label": "Canadian-American"
+      "label": "Canadian-American",
+      "img": "https://i.scdn.co/image/ab67616d0000b273b20ea68a3c200039e8ca83c4"
     },
     {
       "title": "Mack the Knife",
