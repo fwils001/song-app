@@ -157,21 +157,24 @@
       "date": "October 5, 1959",
       "artist": "Bobby Darin",
       "weeks": 9,
-      "label": "Atco"
+      "label": "Atco",
+      "img": "https://i.scdn.co/image/ab67616d0000b2732bae6b7b4fa02482a0a1ff16"
     },
     {
       "title": "Mr. Blue",
       "date": "November 16, 1959",
       "artist": "The Fleetwoods",
       "weeks": 1,
-      "label": "Dolton"
+      "label": "Dolton",
+      "img": "https://cdns-images.dzcdn.net/images/cover/63d812a7b9c454197ec0cfc67df7396c/500x500.jpg"
     },
     {
       "title": "Heartaches by the Number",
       "date": "December 14, 1959",
       "artist": "Guy Mitchell",
       "weeks": 2,
-      "label": "Columbia"
+      "label": "Columbia",
+      "img": "https://static.stereogum.com/uploads/2018/02/Guy-Mitchell-Heartaches-By-The-Number-1518547428.jpg"
     },
     {
       "title": "Why",
