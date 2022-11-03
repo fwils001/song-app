@@ -10,7 +10,6 @@ const App = () => {
     <div className="songs">
       <Header />
       <Nav />
-      <h3>-----------</h3>
       {data.songs.map((song) => (
         <Song song={song} />
       ))}
