@@ -77,28 +77,32 @@
       "date": "February 9, 1959",
       "artist": "Lloyd Price",
       "weeks": 4,
-      "label": "ABC-Paramount"
+      "label": "ABC-Paramount",
+      "img": "https://static.stereogum.com/uploads/2018/01/Lloyd-Price-Stagger-Lee-1516914007-1615157857-520x516.jpg"
     },
     {
       "title": "Venus",
       "date": "March 9, 1959",
       "artist": "Frankie Avalon",
       "weeks": 5,
-      "label": "Chancellor"
+      "label": "Chancellor",
+      "img": "https://m.media-amazon.com/images/I/51J3BBEryEL._AC_SY780_.jpg"
     },
     {
       "title": "Come Softly to Me",
       "date": "April 13, 1959",
       "artist": "The Fleetwoods",
       "weeks": 4,
-      "label": "Liberty"
+      "label": "Liberty",
+      "img": "https://m.media-amazon.com/images/I/41q1ISGdqSL._SY580_.jpg"
     },
     {
       "title": "The Happy Organ",
       "date": "May 11, 1959",
       "artist": "Dave 'Baby' Cortez",
       "weeks": 1,
-      "label": "Clock"
+      "label": "Clock",
+      "img": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/3271/32710527_sa.jpg"
     },
     {
       "title": "Kansas City",
