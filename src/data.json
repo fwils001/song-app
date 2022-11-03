@@ -181,21 +181,24 @@
       "date": "December 28, 1959",
       "artist": "Frankie Avalon",
       "weeks": 1,
-      "label": "Chancellor"
+      "label": "Chancellor",
+      "img": "https://static.stereogum.com/uploads/2018/02/Frankie-Avalon-Why-1518646160.jpg"
     },
     {
       "title": "El Paso",
       "date": "January 4, 1960",
       "artist": "Marty Robbins",
       "weeks": 2,
-      "label": "Columbia"
+      "label": "Columbia",
+      "img": "https://m.media-amazon.com/images/I/41xwcXRyFOL._SY580_.jpg"
     },
     {
       "title": "Running Bear",
       "date": "January 18, 1960",
       "artist": "Johnny Preston",
       "weeks": 3,
-      "label": "Mercury"
+      "label": "Mercury",
+      "img": "https://m.media-amazon.com/images/I/412+TxQvL1L._SY580_.jpg"
     }
   ]
 }
